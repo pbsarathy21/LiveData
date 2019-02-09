@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
             public void getData() {
                 //nameModel.data.setValue("This is very first approach of data binding");
                 nameModel.data.setValue("This is second one");
+                nameModel.data.setValue("This is a third one");
             }
         });
     }
